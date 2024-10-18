@@ -1,0 +1,39 @@
+#wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    padding-left: 250px;
+}
+
+table {
+    background-color: white;
+}
+
+.bg-info {
+    background-color: #17a2b8 !important;
+}
+
+.bg-info.text-white {
+    color: white;
+}
+
+@media (max-width: 768px) {
+    #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding-left: 0;
+    }
+}
