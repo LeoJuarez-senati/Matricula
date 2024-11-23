@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 1,
@@ -36,3 +37,31 @@
         "semestre": 20242
     }
 ]
+=======
+[
+    {
+        "id": 1,
+        "codCurso": "BIF01",
+        "nomCurso": "NOMBRE DEL CURSO",
+        "secCurso": "C/D",
+        "codDocente": 87546374,
+        "docente": "NOMBRE DEL DOCENTE",
+        "teopra": "T/P",
+        "hora": "10-12",
+        "dia": "MI",
+        "semestre": 20242
+    },
+    {
+        "id": 2,
+        "codCurso": "MSc105",
+        "nomCurso": "MATEMÁTICAS",
+        "secCurso": "A",
+        "codDocente": 12345678,
+        "docente": "PROF. PÉREZ",
+        "teopra": "T",
+        "hora": "08-10",
+        "dia": "LU",
+        "semestre": 20242
+    }
+]
+>>>>>>> 3fb9d72d13f625fcde49805583702ca109322b24
