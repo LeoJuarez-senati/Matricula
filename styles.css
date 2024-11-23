@@ -11,6 +11,11 @@
     left: 0;
 }
 
+.active {
+    background-color: #007bff; /* Azul claro */
+    color: white; /* Texto blanco */
+}
+
 #page-content-wrapper {
     width: 100%;
     padding-left: 250px;

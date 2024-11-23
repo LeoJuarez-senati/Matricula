@@ -16,10 +16,10 @@
                 <i class="fas fa-user-graduate me-2"></i>Panel de Usuario
             </div>
             <div class="list-group list-group-flush my-3">
-                <a href="#" class="list-group-item list-group-item-action bg-transparent second-text active">
+                <a href="index.html" class="list-group-item list-group-item-action bg-transparent second-text active">
                     <i class="fas fa-tachometer-alt me-2"></i>Inicio
                 </a>
-                <a href="horario.html" class="list-group-item list-group-item-action bg-transparent second-text fw-bold">
+                <a href="#" class="list-group-item list-group-item-action bg-transparent second-text fw-bold">
                     <i class="fas fa-clock me-2"></i>Horario de Clases
                 </a>
                 <a href="cursos.html" class="list-group-item list-group-item-action bg-transparent second-text fw-bold">
@@ -60,6 +60,32 @@
                 </div>
             </nav>
 
+            <!-- Contenido principal -->
+            <div class="container-fluid">
+                <h1 class="mt-4">Horario de clase</h1>
+                <p>Nota: Presione en los cuadros a colores para listar alumnos</p>
+                <button class="btn btn-danger mb-3">Descargar PDF</button>
+
+                <div class="table-responsive">
+                    <table class="table table-bordered text-center">
+                        <thead>
+                            <tr>
+                                <th>Hora</th>
+                                <th>Lunes</th>
+                                <th>Martes</th>
+                                <th>Miércoles</th>
+                                <th>Jueves</th>
+                                <th>Viernes</th>
+                                <th>Sábado</th>
+                                <th>Domingo</th>
+                            </tr>
+                        </thead>
+                        <tbody id="horario-body">
+                            <!-- Aquí se insertarán dinámicamente las filas de los cursos -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 
