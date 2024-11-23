@@ -2,12 +2,12 @@
     {
         "id": 1,
         "codCurso": "BIF01",
-        "nomCurso": "NOMBRE DEL CURSO",
+        "nomCurso": "Programacion",
         "secCurso": "C/D",
         "codDocente": 87546374,
-        "docente": "NOMBRE DEL DOCENTE",
+        "docente": "Elías Ramirez",
         "teopra": "T/P",
-        "hora": "10-12",
+        "hora": "08-10",
         "dia": "MI",
         "semestre": 20242
     },
@@ -19,7 +19,19 @@
         "codDocente": 12345678,
         "docente": "PROF. PÉREZ",
         "teopra": "T",
-        "hora": "08-10",
+        "hora": "10-12",
+        "dia": "LU",
+        "semestre": 20242
+    },
+    {
+        "id": 3,
+        "codCurso": "MSc105",
+        "nomCurso": "MATEMÁTICAS",
+        "secCurso": "A",
+        "codDocente": 12345678,
+        "docente": "PROF. PÉREZ",
+        "teopra": "T",
+        "hora": "10-12",
         "dia": "LU",
         "semestre": 20242
     }
