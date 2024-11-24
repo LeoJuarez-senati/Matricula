@@ -88,6 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <td>${curso.secCurso}</td>
                 <td>${curso.teopra}</td>
                 <td>${curso.hora}</td>
+                <td>${curso.dia}</td>
             `;
             cursosBody.appendChild(row);
         });
