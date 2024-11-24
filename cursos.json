@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "codCurso": "BIF01",
-        "nomCurso": "Programacion",
+        "codCurso": "MB700",
+        "nomCurso": "INTRODUCCIÓN A LA INGENIERÍA MECÁNICA",
         "secCurso": "C/D",
         "codDocente": 87546374,
         "docente": "Elías Ramirez",
@@ -13,26 +13,75 @@
     },
     {
         "id": 2,
-        "codCurso": "MSc105",
-        "nomCurso": "MATEMÁTICAS",
+        "codCurso": "MC101",
+        "nomCurso": "INGENIERÍA GRAFICA I",
         "secCurso": "A",
         "codDocente": 12345678,
         "docente": "PROF. PÉREZ",
         "teopra": "T",
         "hora": "10-12",
-        "dia": "LU",
+        "dia": "MA",
         "semestre": 20242
     },
     {
         "id": 3,
-        "codCurso": "MSc105",
-        "nomCurso": "MATEMÁTICAS",
+        "codCurso": "BMA03",
+        "nomCurso": "ÁLGEBRA LINEAL",
         "secCurso": "A",
         "codDocente": 12345678,
         "docente": "PROF. PÉREZ",
         "teopra": "T",
-        "hora": "10-12",
+        "hora": "14-16",
         "dia": "LU",
+        "semestre": 20242
+    },
+    
+    {
+        "id": 4,
+        "codCurso": "BTC01",
+        "nomCurso": "REDACCIÓN Y COMUNICACIÓN",
+        "secCurso": "C/D",
+        "codDocente": 87546374,
+        "docente": "NOMBRE DEL DOCENTE",
+        "teopra": "T/P",
+        "hora": "16-18",
+        "dia": "JU",
+        "semestre": 20242
+    },
+    {
+        "id": 5,
+        "codCurso": "BQU01",
+        "nomCurso": "QUÍMICA I",
+        "secCurso": "C/D",
+        "codDocente": 87546374,
+        "docente": "NOMBRE DEL DOCENTE",
+        "teopra": "T/P",
+        "hora": "10-12",
+        "dia": "VI",
+        "semestre": 20242
+    },
+    {
+        "id": 6,
+        "codCurso": "BMA01",
+        "nomCurso": "CÁLCULO DIFERENCIAL",
+        "secCurso": "C/D",
+        "codDocente": 87546374,
+        "docente": "NOMBRE DEL DOCENTE",
+        "teopra": "T/P",
+        "hora": "14-16",
+        "dia": "MI",
+        "semestre": 20242
+    },
+    {
+        "id": 7,
+        "codCurso": "BFI01",
+        "nomCurso": "FÍSICA I",
+        "secCurso": "C/D",
+        "codDocente": 87546374,
+        "docente": "NOMBRE DEL DOCENTE",
+        "teopra": "T/P",
+        "hora": "10-12",
+        "dia": "SA",
         "semestre": 20242
     }
 ]
